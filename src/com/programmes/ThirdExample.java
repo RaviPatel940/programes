@@ -7,7 +7,7 @@ public class ThirdExample {
 				if( i < j)
 			       System.out.print("*");
 			}
-			System.out.print("\n");
+			System.out.print("\n \n");
 		}
 	}
 }
